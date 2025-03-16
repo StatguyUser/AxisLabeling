@@ -1,13 +1,12 @@
 Metadata-Version: 2.2
 Name: AxisLabeling
-Version: 0.0.1
+Version: 0.0.2
 Summary: Implementation of axis-labeling algorithms
 Home-page: https://github.com/StatguyUser/AxisLabeling
 Download-URL: https://github.com/StatguyUser/AxisLabeling.git
 Author: StatguyUser
 Description-Content-Type: text/markdown
 License-File: LICENSE
-Requires-Dist: math
 Requires-Dist: numpy
 Dynamic: author
 Dynamic: description
