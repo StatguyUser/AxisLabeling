@@ -1,0 +1,10 @@
+LICENSE
+README.rst
+setup.cfg
+setup.py
+src/AxisLabeling.py
+src/AxisLabeling.egg-info/PKG-INFO
+src/AxisLabeling.egg-info/SOURCES.txt
+src/AxisLabeling.egg-info/dependency_links.txt
+src/AxisLabeling.egg-info/requires.txt
+src/AxisLabeling.egg-info/top_level.txt
